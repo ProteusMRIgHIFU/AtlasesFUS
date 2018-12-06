@@ -8,7 +8,7 @@ https://scalablebrainatlas.incf.org
 
 Each atlas was manually inspected to recenter the 0 at Bregma. The size in mm is important to calibrate the area of the SVG scalable templates.
 
-Consult [notebook]("Atlases/Tools for Atlas preparation/Convert Atlases for Stereotactic navigation.ipynb") for details for the conversion.
+Consult the **notebook** `Atlases/Tools for Atlas preparation/Convert Atlases for Stereotactic navigation.ipynb` for details for the conversion.
 
 # Citation
 
@@ -42,9 +42,9 @@ Neuroinformatics. http://link.springer.com/content/pdf/10.1007/s12021-014-9258-x
 
 # Licensing
 
-The code provided in the [notebook]("Atlases/Tools for Atlas preparation/Convert Atlases for Stereotactic navigation.ipynb") is distributed under the 3-clause BSD license, see notebook for license. **This license does not extend to the atlas data itself (read above)**
+The code provided in the  notebook `Atlases/Tools for Atlas preparation/Convert Atlases for Stereotactic navigation.ipynb` is distributed under the 3-clause BSD license, see notebook for license. **This license does not extend to the atlas data itself (read above)**
 
-The [svgscale]("Atlases/Tools for Atlas preparation/svgscale") script is provided under the [GNU General Public License v3.0](https://github.com/numixproject/numix-tools/blob/master/LICENSE)
+The `svgscale` `Atlases/Tools for Atlas preparation/svgscale` script is provided under the [GNU General Public License v3.0](https://github.com/numixproject/numix-tools/blob/master/LICENSE)
 
 The Walxhom rat atlas (according to [Scalable Brain Atlas](https://scalablebrainatlas.incf.org)) is distributed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)

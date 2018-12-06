@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="512" width="512">
+<g>
+<rect width="512" height="512" fill="#000000"  stroke-width="0" /> 
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M329 368 C329,371.746 331.091,368 329,368  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M333 372 C333,378.295 339.295,372 333,372  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M339 376 L338,387 L338.5,391 C341.056,391 340.495,376 339,376  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M328 377 C328,382.567 330.112,377 328,377  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M332 382 L329,386.5 C329,388.698 333.93,396.639 336,392.5 338.184,388.133 336.25,382 332,382  Z"/>
+
+</g>
+</svg>

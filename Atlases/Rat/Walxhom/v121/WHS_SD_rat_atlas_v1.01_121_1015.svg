@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="512" width="512">
+<g>
+<rect width="512" height="512" fill="#000000"  stroke-width="0" /> 
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M333 372 C333,378.073 338.158,372 333,372  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M339 378 C339,381.848 338.279,392.942 340,389.5 340.747,388.006 340.214,378 339,378  Z"/>
+
+<path  fill="#FA8072" stroke-width="0" stroke="#FA8072" d = " M332 382 L329,386 L329,389.5 C334.353,400.207 340.967,382 332,382  Z"/>
+
+</g>
+</svg>

@@ -1,0 +1,16 @@
+#!/bin/bash
+size="$1"
+which rsvg-convert > /dev/null 2>&1
+if [[ ! $? -eq 0 ]]; then
+    echo "rsvg-convert not installed."
+    exit 1
+elif [[ -z "$size" ]]; then
+    echo "Please specify a size."
+    exit 1
+else
+    rm -rf "$size"
+    mkdir -p "$size"
+    find . -maxdepth 1 -type f -name "*.svg" -print0 | while IFS= read -r -d '' file; do
+            rsvg-convert "$file" -w "$size" -a -f svg -o "$size/$file"
+    done
+fi
